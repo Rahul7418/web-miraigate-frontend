@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Sportsbook Solution",
+    "description": "Smart, fast and scalable sportsbook solutions built for modern betting platforms. Boost performance, accuracy, and player engagement.",
+    "bgColor": "bg-[radial-gradient(circle_at_top_right,_#464646,_#000000)]",
+    "textColor": "text-white",
+    "image": "/src/assets/images/pngegg 1.png"
+  },
+  {
+    "id": 2,
+    "title": "iGaming Platform",
+    "description": "Your all-in-one iGaming platform with smooth UI, real-time data, instant payouts, and flexible APIs to scale your gaming business.",
+    "bgColor": "bg-[radial-gradient(circle_at_top_right,_#140068,_#0A0034)]",
+    "textColor": "text-white",
+    "image": "/src/assets/images/image 1021.png"
+  },
+  {
+    "id": 3,
+    "title": "Casino Game Development",
+    "description": "Expert casino game development with smooth gameplay, rich graphics, fast performance, and secure integrations for modern iGaming brands.",
+    "bgColor": "bg-[radial-gradient(circle_at_top_right,_#00722B,_#003A16)]",
+    "textColor": "text-white",
+    "image": "/src/assets/images/image 1021.png"
+  },
+  {
+    "id": 4,
+    "title": "Slot Game Development",
+    "description": "High-quality slot game development with engaging themes, smooth spins, bonus features, and scalable tech for top iGaming brands.",
+    "bgColor": "bg-[radial-gradient(circle_at_top_right,_#5F0084,_#36004B)]",
+    "textColor": "text-white",
+    "image": "/src/assets/images/image 1021.png"
+  },
+  {
+    "id": 5,
+    "title": "Crash Game Development",
+    "description": "Expert crash game development with real-time multipliers, smooth UI, secure betting, and scalable tech for high-traffic platforms.",
+    "bgColor": "bg-[radial-gradient(circle_at_top_right,_#8B8B8B,_#2b2b2b)]",
+    "textColor": "text-white",
+    "image": "/src/assets/images/image 1021.png"
+  },
+  {
+    "id": 6,
+    "title": "Custom Game Development",
+    "description": "Custom game development tailored to your vision—unique gameplay, smooth performance, and scalable tech for all platforms.",
+    "bgColor": "bg-[radial-gradient(circle_at_top_right,_#00A400,_#005C00)]",
+    "textColor": "text-white",
+    "image": "/src/assets/images/image 1021.png"
+  }
+]

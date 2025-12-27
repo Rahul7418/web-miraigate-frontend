@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Hannah Schmitt",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse.",
+    "date": "May 8, 2020",
+    "image": "/src/assets/images/profile.png"
+  },
+  {
+    "id": 2,
+    "name": "John Carter",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse..",
+    "date": "June 12, 2020",
+    "image": "/src/assets/images/profile.png"
+  },
+  {
+    "id": 3,
+    "name": "Emily Watson",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse.",
+    "date": "July 1, 2020",
+    "image": "/src/assets/images/profile.png"
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse.",
+    "date": "August 18, 2020",
+    "image": "/src/assets/images/profile.png"
+  },
+  {
+    "id": 5,
+    "name": "Sophia Miller",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse.",
+    "date": "September 5, 2020",
+    "image": "/src/assets/images/profile.png"
+  },
+  {
+    "id": 6,
+    "name": "David Wilson",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse sed magna eget nibh in turpis. Consequat duis diam lacus arcu. Faucibus venenatis felis id augue sit cursus pellentesque enim Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus nibh mauris, nec turpis orci lectus maecenas. Suspendisse.",
+    "date": "October 22, 2020",
+    "image": "/src/assets/images/profile.png"
+  }
+]

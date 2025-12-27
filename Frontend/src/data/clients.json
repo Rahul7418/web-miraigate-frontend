@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Harns Technologies",
+        "logo": "/src/assets/clients/Harns.svg"
+    },
+    {
+        "id": 2,
+        "name": "Mini Monsters",
+        "logo": "/src/assets/clients/minimonsters.svg"
+    },
+    {
+        "id": 3,
+        "name": "Kuku Fm",
+        "logo": "/src/assets/clients/kuku.svg"
+    },
+    {
+        "id": 4,
+        "name": "Zeliq",
+        "logo": "/src/assets/clients/zeliq.svg"
+    },
+    {
+        "id": 5,
+        "name": "Niyaan",
+        "logo": "/src/assets/clients/niyaan.svg"
+    },
+    {
+        "id": 6,
+        "name": "Deloitte",
+        "logo": "/src/assets/clients/uplers.svg"
+    },
+    {
+        "id": 7,
+        "name": "uplers",
+        "logo": "/src/assets/clients/uplers.svg"
+    },
+    {
+        "id": 8,
+        "name": "Redocly",
+        "logo": "/src/assets/clients/redocly.svg"
+    },
+    {
+        "id": 9,
+        "name": "Zehn",
+        "logo": "/src/assets/clients/zehn.svg"
+    },
+    {
+        "id": 10,
+        "name": "HUDABEAUTY",
+        "logo": "/src/assets/clients/hudabeauty.svg"
+    },
+    {
+        "id": 11,
+        "name": "Supreme",
+        "logo": "/src/assets/clients/supreme.svg"
+    },
+    {
+        "id": 12,
+        "name": "blinkit",
+        "logo": "/src/assets/clients/blinkit.svg"
+    }
+]

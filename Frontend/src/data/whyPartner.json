@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Dedicated team",
+    "description": "We are a mobile game development studio with a dedicated team. Our specialists are PRO at project management, hiring, mobile software development, trends analysis, 3D Art, and game design. The creation of outstanding mobile games is our passion.",
+    "icon": "/src/assets/icons/dedicated-team.svg"
+  },
+  {
+    "id": 2,
+    "title": "Market experience",
+    "description": "We know every detail in mobile games development and publishing, that’s why we are here. Our skills allow us to analyze mobile users’ needs and market trends to create competitive games and scenarios. All processes in our company aim to get the best metrics like CTR, CPI, playtime, retention, as well as LTV, ARPU, and revenue.",
+    "icon": "/src/assets/icons/market-experience.svg"
+  },
+  {
+    "id": 3,
+    "title": "Production speed",
+    "description": "We appreciate our partner’s efforts and time. Our studio always aims to deliver results as fast as possible. Our technologies, like the Unity engine, allow us to reduce delivery and production time with no negative impact on game quality and give us the opportunity to develop cross-platform games.",
+    "icon": "/src/assets/icons/production-speed.svg"
+  },
+  {
+    "id": 4,
+    "title": "Flexibility",
+    "description": "We are always open to our partners’ requests and circumstances. MiraiGate is flexible in schedule, pricing, and partnership models such as pay per prototype, burn rate, or revshare. It is common for us to make advances to build long-term partnerships and rapport.",
+    "icon": "/src/assets/icons/flexibility.svg"
+  }
+]
