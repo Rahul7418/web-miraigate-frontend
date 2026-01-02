@@ -22,7 +22,7 @@ const Stat = () => {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 md:gap-10 lg:gap-14">
 
                     {/* Happy Clients */}
-                    <div className="h-48.45 flex flex-col justify-between stat bg-[radial-gradient(circle_at_top_right,#464646,#000000)] rounded-2xl text-white items-center py-8 md:py-10">
+                    <div className="h-48.45 flex flex-col justify-between stat bg-[radial-gradient(circle_at_top_right,#464646,#000000)] rounded-2xl text-white items-center py-8 md:py-10 transition-all duration-300 ease-out hover:scale-105">
                         <div className="mb-4">
                             <UserIcon />
                         </div>
@@ -35,7 +35,7 @@ const Stat = () => {
                     </div>
 
                     {/* Projects Completed */}
-                    <div className="h-48.45 flex flex-col justify-between stat bg-linear-to-br from-purple-700 to-purple-950 rounded-2xl text-white items-center py-8 md:py-10">
+                    <div className="h-48.45 flex flex-col justify-between stat bg-linear-to-br from-purple-700 to-purple-950 rounded-2xl text-white items-center py-8 md:py-10 transition-all duration-300 ease-out hover:scale-105">
                         <div className="mb-4">
                             <Stars />
                         </div>
@@ -48,7 +48,7 @@ const Stat = () => {
                     </div>
 
                     {/* Client Satisfaction */}
-                    <div className="h-48.45 flex flex-col justify-between stat bg-linear-to-br from-gray-500 to-gray-800 rounded-2xl text-white items-center py-8 md:py-10">
+                    <div className="h-48.45 flex flex-col justify-between stat bg-linear-to-br from-gray-500 to-gray-800 rounded-2xl text-white items-center py-8 md:py-10 transition-all duration-300 ease-out hover:scale-105">
                         <div className="mb-4">
                             <ChartIcon />
                         </div>
@@ -61,7 +61,7 @@ const Stat = () => {
                     </div>
 
                     {/* Industries Served */}
-                    <div className="h-48.45 flex flex-col justify-between stat bg-linear-to-br from-green-700 to-green-950 rounded-2xl text-white items-center py-8 md:py-10">
+                    <div className="h-48.45 flex flex-col justify-between stat bg-linear-to-br from-green-700 to-green-950 rounded-2xl text-white items-center py-8 md:py-10 transition-all duration-300 ease-out hover:scale-105">
                         <div className="mb-4">
                             <BuildingIcon />
                         </div>

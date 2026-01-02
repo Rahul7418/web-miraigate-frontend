@@ -10,6 +10,9 @@ const Card = ({ card }) => {
         rounded-3xl
         flex flex-col
         justify-between
+        transition-all 
+        duration-300 ease-out 
+        hover:scale-105
       `}
     >
       {/* 1. IMAGE SECTION */}
